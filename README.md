@@ -1,4 +1,4 @@
-# MentlyFEtest Frontend Coding Challenge
+# Frontend Coding Challenge
 
 ## Welcome
 
