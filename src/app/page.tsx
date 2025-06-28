@@ -188,7 +188,7 @@ export default function Dashboard() {
                   />
                 </div>
               </div>
-              {/* Lower Section - Applications, Mentors, and Recent Activities */}
+              {/* Lower Section - Mentors, and Recent Activities */}
               <div className="flex space-x-3">
                 {/* Applications and User Stats */}
                 <div className="">
